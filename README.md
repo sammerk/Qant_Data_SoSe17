@@ -6,4 +6,5 @@ In diesem Repository werden dem Seminarverlauf nach
      * Texte
      * Arbeitaufträge
      * ...  
+     
 archiviert.
