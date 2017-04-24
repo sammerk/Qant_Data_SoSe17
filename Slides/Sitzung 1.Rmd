@@ -1,0 +1,40 @@
+---
+title: "Quantitative Datenanalyse in der Schulforschung & Schulentwicklung"
+subtitle: "Sitzung 1"
+author: "Samuel Merk"
+output: 
+  ioslides_presentation:
+    css: ../Misc/my.css
+    incremental: yes
+    logo: ../Misc/logo.png
+    smaller: no
+    widescreen: yes
+bibliography: ../Misc/library.bib
+csl: ../Misc/dgps.csl
+---
+
+
+# Herzlich Willkommen!
+
+## Was Sie erwartet:
+* Anwendung der deskriptiven Statistiken zu
+     * Gruppenvergleichen der Verteilung/zentralen Tendenz
+     * Zusammenhang von Variablen
+* Inferenzstatistik zu diesen deskriptiven Statistiken
+* All dies für nominale/ordinale/metrische Variablen
+
+## Worum ich Sie bitte:
+* Seien Sie geduldig mit sich: In stark strukturierten Domänen ist es "üblich", dass sich Inhalte erst nach vielfacher Elaboration erschließen
+* Attribuieren Sie günstig: Suchen Sie internale und zeitlich flexible Ursachen für Ihre Erfolge und Misserfolge
+
+## Das Formale:
+* $Anwesenheit + Aufgabenbearbeitung + Hausarbeit = Schein$
+     * dabei:
+          * Aufgaben nicht für jede Sitzung
+          * Hausarbeit = Bearbeitung einer komplexeren Fragestellung auf einem komplexeren Datensatz
+          
+## Das didaktische:
+* Ausgangslage: Komplexe interdependete Zusammenhänge vs. linearer Seminarverlauf
+* Ideal wäre m.E. ein fortlaufendes Dokument, das alle Überlegungen des Seminars, (also Inhaltliche Einführungen,Elaborationen, Übungsbeispiele, Anwendungsbeispiele mit Software, etc.) inkl. Querverweise abbildet. 
+* Problematisch sind dabei Tafelaufschriebe...
+* Versuch:
